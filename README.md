@@ -1,4 +1,4 @@
-<a align="left"> <img src="https://github.com/mohammadumair1244/mohammadumair1244/blob/main/Untitled%20(2000%20%C3%97%20500%20px).gif" alt="Banner" /> </a>
+<a align="left"> <img src="https://github.com/mohammadumair1244/mohammadumair1244/blob/main/banner.gif" alt="Banner" /> </a>
 <h2 align="center">A passionate FullStack Web developer from Pakistan</h2>
 <br><br>
 <p align="left"> 
