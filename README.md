@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohammad Umair</h1>
-<h3 align="center">A passionate FullStack Web developer from Pakistan</h3>
 <a align="left"> <img src="https://github.com/mohammadumair1244/mohammadumair1244/blob/main/Untitled%20(2000%20%C3%97%20500%20px).gif" alt="Banner" /> </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadumair1244&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadumair1244" /> </p>
+
+<h3 align="center">A passionate FullStack Web developer from Pakistan</h3>
 
 <p align="left"> <a href="https://twitter.com/thisisumairhere" target="blank"><img src="https://img.shields.io/twitter/follow/thisisumairhere?logo=twitter&style=for-the-badge" alt="thisisumairhere" /></a> </p>
 
