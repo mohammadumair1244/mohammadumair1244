@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **PHP Codeigniter / Laravel **
 
 - 🌱 I’m currently learning **Node JS , Laravel**
 
